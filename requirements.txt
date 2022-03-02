@@ -1,0 +1,10 @@
+pandas
+pyproj
+dash
+dash_bootstrap_components
+matplotlib
+plotly
+geopandas
+datetime
+wordcloud 
+jupyterlab-dash
