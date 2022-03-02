@@ -1,0 +1,13 @@
+.gradient {
+
+  /* set height so that element is scrollable */
+  height: 100%;
+}
+
+.no-scrollbars::-webkit-scrollbar {
+  display: none;
+}
+
+.no-scrollbars {
+  scrollbar-width: none;
+}
